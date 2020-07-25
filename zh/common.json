@@ -1,3 +1,20 @@
 {
-  "untranslated": "未翻译"
+  "untranslated": "未翻译",
+  "development-warning": "警告：你正在浏览一个尚在开发中的页面。",
+
+  "loading": "载入中……",
+
+  "last-built": "最近一次构筑于{{time}}",
+  "last-updated": "最近一次更新于{{time}}",
+
+  "license-notice": "所有《宝石战争》的资源都是Infinite Plus Two及505 Games的所有物。",
+  "copyright-notice": "© 2020 MasterEric",
+  "changelog": "站点更改日志",
+  "privacy": "隐私政策",
+
+  "return-home": "回到主页",
+  "enable-dark": "使用黑色模式",
+  "disable-dark": "禁用黑色模式",
+  "set-language": "选择语言",
+  "set-platform": "设置游戏平台"
 }
